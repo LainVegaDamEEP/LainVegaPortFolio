@@ -177,6 +177,7 @@ button {
     cursor: pointer;
     /* Cambia el cursor a un puntero cuando se pasa el ratón por encima */
     transition: box-shadow 0.3s ease;
+    color: black;
     background-color: #fc02a8;
 }
 
